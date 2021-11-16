@@ -1,0 +1,17 @@
+body {
+    color:black;
+    background:coral;
+}
+.heading {
+    width:80%;
+    font-size:22px;
+}
+.nameofpeople, #result_person_name, #result_person_accuracy  {
+    color:royalblue;
+    font-size:20px;
+}
+#camera {
+    border:2px dashed black;
+    width:350px;
+    height:300px;
+}
